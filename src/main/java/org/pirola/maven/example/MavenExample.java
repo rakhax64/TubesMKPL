@@ -59,7 +59,4 @@ public final class MavenExample {
      * @since 2015-07-15
      * @return Greeting.
      */
-    public static String getGreeting() {
-        return "Hello World!!!";
-    }
 }
