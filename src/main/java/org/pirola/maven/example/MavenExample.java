@@ -62,7 +62,4 @@ public final class MavenExample {
     public static String getGreeting() {
         return "Hello World!!!";
     }
-    public static String getGreeting() {
-        return "Hello World!!!";
-    }
 }
