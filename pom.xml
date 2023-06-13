@@ -30,7 +30,10 @@
 		</developer>
 	</developers>
 	<!-- End project description. -->
-
+	<properties>
+  <sonar.organization>rakhax64</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.vendor>pirola.org</project.vendor>
