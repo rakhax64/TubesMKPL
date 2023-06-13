@@ -31,13 +31,11 @@
 	</developers>
 	<!-- End project description. -->
 	<properties>
- 		 <sonar.organization>rakhax64</sonar.organization>
- 		 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-	</properties>
-	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.vendor>pirola.org</project.vendor>
 		<project.mainClass>org.pirola.maven.example.MavenExample</project.mainClass>
+		<sonar.organization>rakhax64</sonar.organization>
+ 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<!-- Fake URLs. This fake URL is used to fail search remote repository and 
 		it use instead the local repository (see buildnumber-maven-plugin). -->
