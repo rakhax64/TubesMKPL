@@ -4,5 +4,5 @@
   <pluginGroups>
     org.sonarsource.scanner.maven
     </pluginGroup>
-</pluginGroup>
+ </pluginGroup>
 </settings>
